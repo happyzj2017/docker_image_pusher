@@ -1,7 +1,7 @@
 #支持私库
 #支持指定架构
-redis
-mysql
+nginx/nginx 
+redis/redis
+mysql/mysql
 nacos
 --platform=linux/arm64
-
