@@ -1,2 +1,2 @@
-redis
+redis:latest
 --platform=linux/arm64
