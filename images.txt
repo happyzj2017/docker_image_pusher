@@ -1,3 +1,4 @@
+docker -v
+docker-compose -v
 redis
-
 --platform=linux/arm64
